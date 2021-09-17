@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @malanski
+- 👋 Hi, I’m Ulisses Malanski @malanski
 - 👀 I’m interested in technologies, visual art and music 
 - This is my [youtube channel] (https://www.youtube.com/channel/UCMO8be295Zay2OajfewJpMA)
 - 🌱 I’m currently learning Web Development ...
