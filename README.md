@@ -1,17 +1,14 @@
-- 👋 Hi, I’m Ulisses Malanski @malanski
-- 👀 I’m interested in technologies, visual art and music 
-- This is my [youtube channel](https://www.youtube.com/channel/UCMO8be295Zay2OajfewJpMA)
-- 🌱 I’m dedicated to Web Development and Web Full Stack!
-- 💞️ I’m looking to collaborate on creativity with everyone 
-- 📫 How to reach me? [instagram](https://www.instagram.com/ulissesmalanski_tattoo/)
-<!---
-malanski/malanski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
- <h1 align="center"><b>Hi, I'm Ulisses Malanski! how are you ? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+<h1 align="center"><b>Hi, I'm Ulisses Malanski! how are you ? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
 
 - Sou graduado em arte e desenho, mas também tenho interesse nas linguagens e outras tecnologias, DAW e produção musical! 🔥
+- 👀 I’m interested in technologies, visual art and music.  
+- 🌱 I’m dedicated to Web Development and Web Full Stack!
+- 💞️ I’m looking to collaborate on creativity with everyone 
+
+- This is my [youtube channel](https://www.youtube.com/channel/UCMO8be295Zay2OajfewJpMA) 
 - Javascript,  HTML, CSS, , PHP, React, Bootstrap, NodeJs! 🔥
+
 <!---
 TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
 --->
@@ -45,10 +42,9 @@ TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
  <br>
  
   <div align="center">
-      <a href="https://www.linkedin.com/in/ulisses_augusto_cequinel_malanski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+      <a href="www.linkedin.com/in/ulisses-malanski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href="https://www.instagram.com/ulissesmalanski_tattoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-      <a href="https://www.facebook.com/ulisses.malanski" target="_blank"></a>
-    
+   
    </div>
  <br>
  <div align="center">
