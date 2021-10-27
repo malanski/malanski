@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
-<h1 align="center"><b>Hi, I'm Ulisses Malanski! how are you ? <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
+<h1 align="center"><b>Hi, I'm Ulisses Malanski! welcome people! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
 
 - Sou graduado em arte e desenho, mas também tenho interesse nas linguagens e outras tecnologias, DAW e produção musical! 🔥
 - 👀 I’m interested in technologies, visual art and music.  
