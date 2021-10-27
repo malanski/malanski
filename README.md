@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Web Development ...
 - 💞️ I’m looking to collaborate on creativity with everyone 
 - 📫 How to reach me? [instagram](https://www.instagram.com/ulissesmalanski_tattoo/)
-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+- [![Ulisses Malanski's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 malanski/malanski is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
