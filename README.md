@@ -1,4 +1,7 @@
------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+</div>
+-------------------------------------------------------------------------------------------------------------------------------------------------------
 <h1 align="center"><b>Hi, I'm Ulisses Malanski! welcome people! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
 
 - I am graduated in Drawing and Art education. 
@@ -9,18 +12,17 @@
 - 💞️ I’m looking to collaborate on creativity with everyone. 
 - This is my [youtube channel](https://www.youtube.com/channel/UCMO8be295Zay2OajfewJpMA) 
 - HTML, CSS, PHP, React, Bootstrap, NodeJs, Javascript! 🔥
-<br>
- - I also can collaborate with: Design, Digital Art, Photo Manipulation, Concept Art, Audio Production, Music Composing.
- - SOFTWARES
-    - Visual Art & Design
-        1 Adobe Illustrator
-        2 Photoshop
-        3 Adobe XD
-        4 Adobe Premiere
-    - Audio Editing & Music Production
-        1 Ableton Live
-        2 Nuendo
-        3 Fruit Loops
+- I also can collaborate with: Design, Digital Art, Photo Manipulation, Concept Art, Audio Production, Music Composing.
+- SOFTWARES.
+  * Visual Art & Design.
+      - Adobe Illustrator
+      - Photoshop
+      - Adobe XD
+      - Adobe Premiere
+  * Audio Editing & Music Production.
+      - Ableton Live
+      - Nuendo
+      - Fruit Loops
         
 
 <!---
@@ -32,7 +34,6 @@ TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
 <div align="center">
     <a href="https://github.com/malanski">
       <img height="180" style="border-radius: 50px;" src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical"/>
 </div>
   <div align="center" style="display: inline-block;"> <br>
