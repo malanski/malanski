@@ -65,5 +65,5 @@ TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
  <br>
  <div align="center">
   
-![doida-novela-gif-10](https://github.com/malanski/zero-bootstrap/blob/main/tenor.gif)
+![nazaré da novela-gif](https://github.com/malanski/zero-bootstrap/blob/main/tenor.gif)
   </div>
