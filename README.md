@@ -32,7 +32,7 @@ TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
 <br>
 
 <div align="center">
-    <a href="https://github.com/malanski">
+    <a href="https://www.facebook.com/ulisses.malanski/">
       <img height="180" style="border-radius: 50px;" src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738">
      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -59,6 +59,7 @@ TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
   <div align="center">
       <a href="www.linkedin.com/in/ulisses-malanski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href="https://www.instagram.com/ulissesmalanski_tattoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+   
    
    </div>
  <br>
