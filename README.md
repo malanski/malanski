@@ -1,6 +1,6 @@
 <div align="center">
 <img height="420em" src="https://scontent.fbfh14-1.fna.fbcdn.net/v/t1.6435-9/p180x540/244771418_4380026338701045_1016906861568622985_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFhR1pV2e6QYt2ocJC1UNbyE8Jlz9eectQTwmXP155y1PtwuX6WNiQdMwyRG_5ucWtfAusNrkkz-VUuHeYhsPZG&_nc_ohc=2g7Nfe4SDCQAX-VTO88&_nc_ht=scontent.fbfh14-1.fna&oh=72bf1a4efde9d6ddd229a3c2fa1699fc&oe=61A2509C">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>  
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  
 </div>
 <h1 align="center"><b>Hi, I'm Ulisses Malanski! welcome people! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
 
@@ -34,7 +34,7 @@ TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
 <div align="center">
     <a href="https://www.facebook.com/ulisses.malanski/">
       <img height="180" style="border-radius: 50px;" src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738">
-     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical"/>
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical">
 </div>
   <div align="center" style="display: inline-block;"> <br>
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
