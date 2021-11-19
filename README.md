@@ -1,6 +1,16 @@
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  
-</div>
+
+<div align="center">
 <h1 align="center"><b>Hi, I'm Ulisses Malanski! welcome people! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  
+
+
+
+ 
+    <a href="https://www.facebook.com/ulisses.malanski/">
+      <img height="180" style="border-radius: 50px;" src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738">
+     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical">
+</div>
+
 
 - I am graduated in Drawing and Art education. 
  
