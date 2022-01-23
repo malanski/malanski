@@ -14,7 +14,7 @@
 - 🌱 I’m dedicated to Web Development and Web Full Stack!
 - 💞️ I’m looking to collaborate on creativity with everyone. 
 - This is my [youtube channel](https://www.youtube.com/channel/UCMO8be295Zay2OajfewJpMA) 
-- HTML, CSS, PHP, React, Bootstrap, NodeJs, Javascript! 🔥
+- HTML, CSS, Javascript, React, Bootstrap, NodeJs! 🔥
 - I also can collaborate with: Design, Digital Art, Photo Manipulation, Concept Art, Audio Production, Music Composing.
 - SOFTWARES.
   * Visual Art & Design.
