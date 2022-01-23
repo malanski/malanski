@@ -63,5 +63,22 @@ TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
       <a href="https://www.instagram.com/ulissesmalanski_tattoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
  <div align="center">
-<img height="420em" src="https://scontent.fbfh14-1.fna.fbcdn.net/v/t1.6435-9/p180x540/244771418_4380026338701045_1016906861568622985_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=e3f864&_nc_eui2=AeFhR1pV2e6QYt2ocJC1UNbyE8Jlz9eectQTwmXP155y1PtwuX6WNiQdMwyRG_5ucWtfAusNrkkz-VUuHeYhsPZG&_nc_ohc=2g7Nfe4SDCQAX-VTO88&_nc_ht=scontent.fbfh14-1.fna&oh=72bf1a4efde9d6ddd229a3c2fa1699fc&oe=61A2509C">  
+  <ul class="projects">
+            <li>
+            <a href="https://malanski.github.io/GessingColorGame/" title="JavaScript Gessing Color Game">Gessing Color Game</a>
+            </li>
+            <li>
+            <a href="https://malanski.github.io/DrumKit/" title="JavaScript study Drum Kit">Drum Kit</a>
+            </li>
+            <li>
+                <a href="https://malanski.github.io/pokeLoja2/" title="My Firts project">Ecommerce Card Game</a>
+            </li>
+            <li>
+                <a href="https://malanski.github.io/Poke-Loja-3/" title="A different approach ">Ecommerce Clean</a>
+            </li>
+            <li>
+                <a href="https://malanski.github.io/MyResume/" title="A short personal Resume">My Resume</a>
+            </li>
+            
+        </ul>
    </div>
