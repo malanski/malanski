@@ -64,6 +64,7 @@ TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
 
 <div align="center">
 ### Links to Other Projects by Ulisses Malanski<br>
+<a href="https://malanski.github.io/cron/" target="_blank">Cron |</a>
 <a href="https://malanski.github.io/GessingColorGame/" target="_blank">Gessing Color Game |</a>
 <a href="https://malanski.github.io/DrumKit/" title="JavaScript study Drum Kit">Drum Kit |</a>
 <a href="https://malanski.github.io/pokeLoja2/" title="My Firts project">Ecommerce Card Game |</a>
