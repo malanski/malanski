@@ -58,19 +58,18 @@ TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
   
   ##
  <br> 
-  <div align="center">
+<div align="center">
       <a href="www.linkedin.com/in/ulisses-malanski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
       <a href="https://www.instagram.com/ulissesmalanski_tattoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
-<div align="center">
-### Links to Other Projects by Ulisses Malanski<br>
-<a href="https://malanski.github.io/cron/" target="_blank">Cron |</a>
-<a href="https://malanski.github.io/pokestore-react/" target="_blank">PokéStore React Js |</a>
-<a href="https://malanski.github.io/GessingColorGame/" target="_blank">Gessing Color Game |</a>
-<a href="https://malanski.github.io/GessingColorGame/" target="_blank">Gessing Color Game |</a>
-<a href="https://malanski.github.io/CalculatorX/" title="JavaScript study Calculator">Calculator |</a>
-<a href="https://malanski.github.io/pokeLoja2/" title="My Firts project">Ecommerce Card Game |</a>
-<a href="https://malanski.github.io/Poke-Loja-3/" title="A different approach ">Ecommerce Clean |</a>
-<a href="https://malanski.github.io/MyResume/" title="A short personal Resume">My Resume</a>
+ </div>
+  
+### Links to Other Projects by Ulisses Malanski<br>  
+ 
+- <a href="https://malanski.github.io/cron/" target="_blank">Cron</a>  
+- <a href="https://malanski.github.io/pokestore-react/" target="_blank">PokéStore React Js</a>  
+- <a href="https://malanski.github.io/GessingColorGame/" target="_blank">Gessing Color Game</a>  
+- <a href="https://malanski.github.io/CalculatorX/" title="JavaScript study Calculator">Calculator</a>  
+- <a href="https://malanski.github.io/pokeLoja2/" title="My Firts project">Ecommerce Card Game</a>  
+- <a href="https://malanski.github.io/Poke-Loja-3/" title="A different approach ">Ecommerce Clean</a>  
+- <a href="https://malanski.github.io/MyResume/" title="A short personal Resume">My Resume</a>  
             
-</div>
