@@ -6,10 +6,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical">
 </div>
 
-
-- I am graduated in Drawing and Art education. 
- 
-- Sou graduado em arte/desenho, tenho interesse nas linguagens e outras tecnologias, DAW e produção musical! 🔥
+- I am a Full Stack Web Developer Certificated by Awari School.
+- I am graduated in Drawing Licenciated at Art education. 
 - 👀 I’m interested in technologies, visual art and music.  
 - 🌱 I’m dedicated to Web Development and Web Full Stack!
 - 💞️ I’m looking to collaborate on creativity with everyone. 
