@@ -14,6 +14,23 @@
 - This is my [youtube channel](https://www.youtube.com/channel/UCMO8be295Zay2OajfewJpMA) 
 - HTML, CSS-SASS, Javascript, React, Next, Node! 🔥
 - I also can collaborate with: Design, Digital Art, Photo Manipulation, Concept Art, Audio Production, Music Composing.
+- I`m currently learning and developing skills on:
+  * FromtEND technologies like:
+     - SASS
+     - JavaScript
+     - Nextjs
+     - Reactjs
+     - Bootstrap
+     - TypeScript
+     - SEO  
+   
+  * BackEND principles like:
+     - SQL, Sequelize, Postgres
+     - SCRUD
+     - Cloud
+     - Security
+     - AWS
+     - API REST
 - SOFTWARES.
   * Visual Art & Design.
       - Adobe Illustrator
@@ -40,8 +57,10 @@ TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
   <div align="center" style="display: inline-block;"> <br>
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+   
+      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+   
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
