@@ -6,8 +6,8 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical">
 </div>
 
-- I am a Full Stack Web Developer Certificated by Awari School.
-- I am graduated in Drawing (Art education Licentiate)
+- 👨‍🎓 I am a Full Stack Web Developer Certificated by Awari School.
+- 👨‍🎨 I am graduated in Drawing (Art education Licentiate)
 - 👀 I’m interested in technologies, visual art and music.  
 - 🌱 I’m dedicated to Web Development and Web Full Stack!
 - 💞️ I’m looking to collaborate on creativity with everyone. 
@@ -18,23 +18,24 @@
 <div align="center">
 
   
-|🔥FrontEND Technologies like:🔥 | 🔥 |🔥BackEND principles like:🔥 |
+|🔥FrontEND Technologies like:🔥 | 🌸 🌸 |🔥BackEND principles like:🔥 |
 |:--- | --- | :---|
-|SASS | 🔥 | SQL, Sequelize, Postgres |
-|JavaScript | 🔥 |Dbeaver |
-|Nextjs | 🔥 |SCRUD |
-|Reactjs | 🔥 |TypeScript |
-|HTML5 | 🔥 |APACHE |
-|Bootstrap | 🔥 |Cloud |
-|Chakra, MUI | 🔥 |Security |
-|SEO | 🔥 |AWS |
-|jQuery | 🔥 |API REST |
+|SASS SCSS  🧑‍🎨 | 🌸 🌸 | SQL, Sequelize, Postgres💾 |
+|JavaScript | 🌸 🌸 |Dbeaver💾 |
+|Nextjs  🥑 | 🌸 🌸 |SCRUD |
+|Reactjs🤸 | 🌸 🌸 |TypeScript |
+|HTML5  🚴 | 🌸 🌸 |APACHE |
+|Bootstrap | 🌸 🌸 |Cloud |
+|Chakra, MUI, Fontawesome | 🌸 🌸 |Security  🤼 |
+|SEO | 🌸 🌸 |AWS |
+|jQuery | 🌸 🌸 |API REST  :ninja:|
+
 
 </div>
 
       
 - SOFTWARES I like to use on my work:
-  * Visual Art & Design.
+  * Visual Art & Design.🧑‍🎨 💻 📱 ⌨️
       - VS code
       - Figma
       - Adobe XD
@@ -42,7 +43,7 @@
       - Adobe Photoshopp
       - Adobe Premiere  
      
-  * Audio Editing & Music Production.
+  * Audio Editing & Music Production. 🔉 🎶 🎸 🥁 🎵 🎹 🎤 🎼
       - Ableton Live
       - Nuendo
       - Fruit Loops 
