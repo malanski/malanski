@@ -30,18 +30,22 @@
      - Cloud
      - Security
      - AWS
-     - API REST
+     - API REST  
+      
 - SOFTWARES.
   * Visual Art & Design.
-      - Adobe Illustrator
-      - Photoshop
+      - VS code
+      - Figma
       - Adobe XD
-      - Adobe Premiere
+      - Adobe Illustrator
+      - Adobe Photoshopp
+      - Adobe Premiere  
+     
   * Audio Editing & Music Production.
       - Ableton Live
       - Nuendo
-      - Fruit Loops
-        
+      - Fruit Loops  
+          
 
 <!---
 TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
