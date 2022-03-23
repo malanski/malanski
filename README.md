@@ -12,27 +12,30 @@
 - 🌱 I’m dedicated to Web Development and Web Full Stack!
 - 💞️ I’m looking to collaborate on creativity with everyone. 
 - This is my [youtube channel](https://www.youtube.com/channel/UCMO8be295Zay2OajfewJpMA) 
-- HTML, CSS-SASS, Javascript, React, Next, Node! 🔥
+- HTML, CSS-SASS, Javascript, React, Next, Node, Git and Github! 🔥
 - I also can collaborate with: Design, Digital Art, Photo Manipulation, Concept Art, Audio Production, Music Composing.
 - I`m currently learning and developing skills on:
-  * FromtEND technologies like:
+  * 🔥FromtEND technologies like:
      - SASS
      - JavaScript
      - Nextjs
      - Reactjs
      - Bootstrap
-     - TypeScript
-     - SEO  
+     - Chakra and MUI
+     - SEO 
    
-  * BackEND principles like:
+  * 🔥BackEND principles like:
      - SQL, Sequelize, Postgres
      - SCRUD
+     - TypeScript
+     - Dbeaver
+     - Apache
      - Cloud
      - Security
      - AWS
      - API REST  
       
-- SOFTWARES.
+- SOFTWARES I like to use on my work:
   * Visual Art & Design.
       - VS code
       - Figma
@@ -44,7 +47,8 @@
   * Audio Editing & Music Production.
       - Ableton Live
       - Nuendo
-      - Fruit Loops  
+      - Fruit Loops 
+- I can work both on Windows and Linux(and WLS).   
           
 
 <!---
