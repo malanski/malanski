@@ -68,7 +68,7 @@ TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
 ### Links to Other Projects by Ulisses Malanski<br>  
  
 - <a href="https://malanski.github.io/cron/" target="_blank">Cron</a>  
-- <a href="https://malanski.github.io/poke-store-next/" target="_blank">Poké-Store Next Js</a>
+- <a href="https://poke-store-next.vercel.app//" target="_blank">Poké-Store Next Js</a>
 - <a href="https://malanski.github.io/pokestore-react/" target="_blank">PokéStore React Js</a>  
 - <a href="https://malanski.github.io/GessingColorGame/" target="_blank">Gessing Color Game</a>
 - <a href="https://malanski.github.io/projeto-react-app2/" target="_blank">Projeto React App</a>
