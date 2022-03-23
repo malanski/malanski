@@ -14,26 +14,24 @@
 - This is my [youtube channel](https://www.youtube.com/channel/UCMO8be295Zay2OajfewJpMA) 
 - HTML, CSS-SASS, Javascript, React, Next, Node, Git and Github! 🔥
 - I also can collaborate with: Design, Digital Art, Photo Manipulation, Concept Art, Audio Production, Music Composing.
-- I`m currently learning and developing skills on:
-  * 🔥FromtEND technologies like:
-     - SASS
-     - JavaScript
-     - Nextjs
-     - Reactjs
-     - Bootstrap
-     - Chakra and MUI
-     - SEO 
-   
-  * 🔥BackEND principles like:
-     - SQL, Sequelize, Postgres
-     - SCRUD
-     - TypeScript
-     - Dbeaver
-     - Apache
-     - Cloud
-     - Security
-     - AWS
-     - API REST  
+- I`m currently learning and developing skills on:  
+<div align="center">
+
+  
+|🔥FrontEND Technologies like:🔥 | 🔥 |🔥BackEND principles like:🔥 |
+|:--- | --- | :---|
+|SASS | 🔥 | SQL, Sequelize, Postgres |
+|JavaScript | 🔥 |Dbeaver |
+|Nextjs | 🔥 |SCRUD |
+|Reactjs | 🔥 |TypeScript |
+|HTML5 | 🔥 |APACHE |
+|Bootstrap | 🔥 |Cloud |
+|Chakra, MUI | 🔥 |Security |
+|SEO | 🔥 |AWS |
+|jQuery | 🔥 |API REST |
+
+</div>
+
       
 - SOFTWARES I like to use on my work:
   * Visual Art & Design.
