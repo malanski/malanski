@@ -79,13 +79,13 @@ TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
   
 ### Links to Other Projects by Ulisses Malanski<br>  
  
-- <a href="https://malanski.github.io/cron/" target="_blank">Cron</a>  
-- <a href="https://poke-store-next.vercel.app//" target="_blank">Poké-Store Next Js</a>
-- <a href="https://malanski.github.io/pokestore-react/" target="_blank">PokéStore React Js</a>  
-- <a href="https://malanski.github.io/GessingColorGame/" target="_blank">Gessing Color Game</a>
-- <a href="https://malanski.github.io/projeto-react-app2/" target="_blank">Projeto React App</a>
+- <a href="https://malanski.github.io/cron/" title="Cronometer" target="_blank">Cron</a>  
+- <a href="https://poke-store-next.vercel.app//" title="Nextjs Ecommerce Pokemon Store" target="_blank">Poké-Store Next Js</a>
+- <a href="https://malanski.github.io/pokestore-react/" title="Reactjs Ecommerce Pokemon Store" target="_blank">PokéStore React Js</a>  
+- <a href="https://malanski.github.io/GessingColorGame/" title="Color Game JavaScript CSS HTML"target="_blank">Gessing Color Game</a>
+- <a href="https://malanski.github.io/projeto-react-app2/" title="Artistic Portfolium" target="_blank">Portfolium React App</a>
 - <a href="https://malanski.github.io/CalculatorX/" title="JavaScript study Calculator">Calculator</a>  
-- <a href="https://malanski.github.io/pokeLoja2/" title="My Firts project">Ecommerce Card Game</a>  
+- <a href="https://malanski.github.io/pokeLoja2/" title="My Firts Vanilla Ecommerce project">Vanilla Ecommerce Poke Card Game Styled</a>  
 - <a href="https://malanski.github.io/awari-ulisses-dev/" title="Awari Course Activity">Web Development Course Activities</a>  
 - <a href="https://malanski.github.io/MyResume/" title="A short personal Resume">My Resume</a>  
             
