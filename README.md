@@ -87,6 +87,6 @@ TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
 - <a href="https://malanski.github.io/projeto-react-app2/" target="_blank">Projeto React App</a>
 - <a href="https://malanski.github.io/CalculatorX/" title="JavaScript study Calculator">Calculator</a>  
 - <a href="https://malanski.github.io/pokeLoja2/" title="My Firts project">Ecommerce Card Game</a>  
-- <a href="https://malanski.github.io/awari-ulisses-dev/#/atividade19" title="Awari Course Activity">Web Development Course Activities</a>  
+- <a href="https://malanski.github.io/awari-ulisses-dev/" title="Awari Course Activity">Web Development Course Activities</a>  
 - <a href="https://malanski.github.io/MyResume/" title="A short personal Resume">My Resume</a>  
             
