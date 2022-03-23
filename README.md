@@ -40,6 +40,7 @@ TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
   <div align="center" style="display: inline-block;"> <br>
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/next/next-original.svg">
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -64,6 +65,7 @@ TypeScript, C / C ++ / C #, .NET, Ruby, Angular, Java, Phyton
 ### Links to Other Projects by Ulisses Malanski<br>  
  
 - <a href="https://malanski.github.io/cron/" target="_blank">Cron</a>  
+- <a href="https://malanski.github.io/poke-store-next/" target="_blank">Poké-Store Next Js</a>
 - <a href="https://malanski.github.io/pokestore-react/" target="_blank">PokéStore React Js</a>  
 - <a href="https://malanski.github.io/GessingColorGame/" target="_blank">Gessing Color Game</a>
 - <a href="https://malanski.github.io/projeto-react-app2/" target="_blank">Projeto React App</a>
