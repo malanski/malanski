@@ -51,10 +51,12 @@
          
 
 <div align="center">
-    <a href="https://www.facebook.com/ulisses.malanski/">
-      <img height="180" style="border-radius: 50px;" src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738"></a>
+<a href="https://www.facebook.com/ulisses.malanski/">
+<img height="180" style="border-radius: 50px;" src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738">
+</a>
      
 </div>
+  
 <div align="center" style="display: inline-block;">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
