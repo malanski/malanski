@@ -50,12 +50,11 @@
 - I can work both on Windows and Linux(and WLS).   
          
 
-<div align="center">
-<a href="https://www.facebook.com/ulisses.malanski/">
-<img height="180" style="border-radius: 50px;" src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738">
-</a>
+ <div align="center">
+ 
+ <a href="https://www.facebook.com/ulisses.malanski/"><img height="180" style="border-radius: 50px;" src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738"></a>
      
-</div>
+ </div>
   
 <div align="center" style="display: inline-block;">
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -67,11 +66,7 @@
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">   
 </div>  
 
-   
-<div align="center">
-     
- </div>
-  
+ 
 ### Links to Other Projects by Ulisses Malanski<br>  
  
 - <a href="https://malanski.github.io/cron/" title="Cronometer" target="_blank">Cron</a>  
@@ -84,10 +79,11 @@
 - <a href="https://malanski.github.io/awari-ulisses-dev/" title="Awari Course Activity">Web Development Course Activities</a>  
 - <a href="https://malanski.github.io/MyResume/" title="A short personal Resume">My Resume</a>  
             
-  <div>
+  <div align="center">
+ 
   <a href="https://www.linkedin.com/in/ulisses-malanski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:malanskiwork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-      <a href="https://www.instagram.com/ulissesmalanski_tattoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:malanskiwork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ulissesmalanski_tattoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
 ![Snake animation](https://github.com/malanski/malanski/blob/output/github-contribution-grid-snake.svg)
     
