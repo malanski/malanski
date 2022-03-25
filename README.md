@@ -20,16 +20,16 @@
 
   
 |🔥FrontEND Technologies like:🔥 | 🌸 🌸 |🔥BackEND principles like:🔥 |
-|:--- | --- | :---|
-|SASS SCSS  🧑‍🎨 | 🌸 🌸 | SQL, Sequelize, Postgres💾 |
-|JavaScript | 🌸 🌸 |Dbeaver💾 |
-|Nextjs  🥑 | 🌸 🌸 |SCRUD |
-|Reactjs🤸 | 🌸 🌸 |TypeScript |
-|HTML5  🚴 | 🌸 🌸 |APACHE |
-|Bootstrap | 🌸 🌸 |Cloud |
-|Chakra, MUI, Fontawesome | 🌸 🌸 |Security  🤼 |
-|SEO | 🌸 🌸 |AWS |
-|jQuery | 🌸 🌸 |API REST  :ninja:|
+|:----------------------------- | ---- | :-------------------------|
+|SASS SCSS  🧑‍🎨                  | 🌸 🌸 | SQL, Sequelize, Postgres💾 |
+|JavaScript                     | 🌸 🌸 |Dbeaver💾 |
+|Nextjs  🥑                     | 🌸 🌸 |SCRUD |
+|Reactjs🤸                      | 🌸 🌸 |TypeScript |
+|HTML5  🚴                      | 🌸 🌸 |APACHE |
+|Bootstrap                      | 🌸 🌸 |Cloud |
+|Chakra, MUI, Fontawesome       | 🌸 🌸 |Security  🤼 |
+|SEO                            | 🌸 🌸 |AWS |
+|jQuery                         | 🌸 🌸 |API REST  and GraphQL :ninja:|
 
 
 </div>
@@ -58,13 +58,13 @@
  </div>
   
 <div align="center" style="display: inline-block;">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">   
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">   
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">   
+<img align="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+<img align="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">   
+<img align="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">   
+<img align="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">   
 </div>  
 
  
