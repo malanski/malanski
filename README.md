@@ -14,20 +14,21 @@
 - 💞️ I’m looking to collaborate on creativity with everyone. 
 - This is my [youtube channel](https://www.youtube.com/channel/UCMO8be295Zay2OajfewJpMA) 
 - HTML, CSS-SASS, Javascript, React, Next, Node, Git and Github! 🔥
-- I also can collaborate with: Design, Digital Art, Photo Manipulation, Concept Art, Audio Production, Music Composing.
-- I`m currently learning and developing skills on:  
+- I also can collaborate with: Design, Digital Art, Photo Manipulation, Concept Art, Audio Production, Music Composing.  
+  
+### I`m currently learning and developing skills on:  
 <div align="center">
 
   
-|🔥FrontEND Technologies like:🔥 | 🌸 🌸 |🔥BackEND principles like:🔥 |
+|🔥FrontEND Technologies:🔥      | 🌸 🌸 |🔥BackEND principles:🔥 |
 |:----------------------------- | ---- | :-------------------------|
-|SASS SCSS  🧑‍🎨                  | 🌸 🌸 | SQL, Sequelize, Postgres💾 |
-|JavaScript                     | 🌸 🌸 |Dbeaver💾 |
-|Nextjs  🥑                     | 🌸 🌸 |SCRUD |
-|Reactjs🤸                      | 🌸 🌸 |TypeScript |
-|HTML5  🚴                      | 🌸 🌸 |APACHE |
+|SASS SCSS                      | 🌸 🌸 | SQL, Sequelize, Postgres |
+|JavaScript                     | 🌸 🌸 |Dbeave |
+|Nextjs                         | 🌸 🌸 |SCRUD |
+|Reactjs                        | 🌸 🌸 |TypeScript |
+|HTML5                          | 🌸 🌸 |APACHE |
 |Bootstrap                      | 🌸 🌸 |Cloud |
-|Chakra, MUI, Fontawesome       | 🌸 🌸 |Security  🤼 |
+|Chakra, MUI, Fontawesome       | 🌸 🌸 |Security  |
 |SEO                            | 🌸 🌸 |AWS |
 |jQuery                         | 🌸 🌸 |API REST  and GraphQL :ninja:|
 
@@ -35,10 +36,12 @@
 </div>
 
       
-- SOFTWARES I like to use on my work:
-  * Visual Art & Design.🧑‍🎨 💻 📱 ⌨️
+### SOFTWARES I like to use on my work:
+  * Web development, Visual Art & Design.🧑‍🎨 💻 📱 ⌨️
       - VS code
       - Figma
+      - Dbeaver
+      - XAMP
       - Adobe XD
       - Adobe Illustrator
       - Adobe Photoshopp
@@ -48,7 +51,7 @@
       - Ableton Live
       - Nuendo
       - Fruit Loops 
-- I can work both on Windows and Linux(and WLS).   
+### I can work both on Windows and Linux(and WLS).   
          
 
  <div align="center">
@@ -64,11 +67,14 @@
 <img align="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">   
 <img align="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+<img align="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+<img align="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"> 
 <img align="center" height="70" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">   
 </div>  
 
  
-### Links to Other Projects by Ulisses Malanski<br>  
+## Links to Other Projects by Ulisses Malanski<br>  
  
 - <a href="https://malanski.github.io/cron/" title="Cronometer" target="_blank">Cron</a>  
 - <a href="https://poke-store-next.vercel.app//" title="Nextjs Ecommerce Pokemon Store" target="_blank">Poké-Store Next Js</a>
@@ -79,12 +85,14 @@
 - <a href="https://malanski.github.io/pokeLoja2/" title="My Firts Vanilla Ecommerce project">Vanilla Ecommerce Poke Card Game Styled</a>  
 - <a href="https://malanski.github.io/awari-ulisses-dev/" title="Awari Course Activity">Web Development Course Activities</a>  
 - <a href="https://malanski.github.io/MyResume/" title="A short personal Resume">My Resume</a>  
-            
+  
+## Where to reach me:  
+  
   <div align="center">
  
-  <a href="https://www.linkedin.com/in/ulisses-malanski/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:malanskiwork@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/ulissesmalanski_tattoo/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ulisses-malanski/" target="_blank"><img src="https://img.shields.io/badge/Ulisses Malanski-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:malanskiwork@gmail.com"><img src="https://img.shields.io/badge/-malanskiwork@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/ulissesmalanski_tattoo/" target="_blank"><img src="https://img.shields.io/badge/Ulisses Malanski Tattoo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     
  </div>
 
