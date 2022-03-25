@@ -21,16 +21,17 @@
 
   
 |🔥FrontEND Technologies:🔥      | 🌸 🌸 |🔥BackEND principles:🔥 |
-|:----------------------------- | ---- | :-------------------------|
-|SASS SCSS                      | 🌸 🌸 | SQL, Sequelize, Postgres |
+| :---------------------------- | ---- | :------------------------- |
+|SASS SCSS                      | 🌸 🌸 |SQL, Sequelize, Postgres |
 |JavaScript                     | 🌸 🌸 |Dbeave |
 |Nextjs                         | 🌸 🌸 |GraphQL API |
 |Reactjs                        | 🌸 🌸 |TypeScript |
 |HTML5                          | 🌸 🌸 |APACHE |
-|Bootstrap                      | 🌸 🌸 |Cloud |
+|Bootstrap                      | 🌸 🌸 |Cloud Deploy|
 |Chakra, MUI, Fontawesome       | 🌸 🌸 |Security  |
 |SEO                            | 🌸 🌸 |AWS |
 |jQuery                         | 🌸 🌸 |REST API|
+|                               | 🌸 🌸 |Docker Composer  |
 
 
 </div>
@@ -71,10 +72,9 @@
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-
+ <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
- 
-
+<img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
  
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
 <img align="center" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
