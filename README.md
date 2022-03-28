@@ -111,7 +111,7 @@
   
 <!-- ![image](https://github.com/malanski/malanski/blob/master/dino.gif) -->
 
-<img height="150px" width="320px" src="https://github.com/malanski/malanski/dino.gif" />
+<img height="200px" width="375px" src="/dino.gif" />
 
 ## Where to reach me:  
   
