@@ -109,6 +109,10 @@
 - <a href="https://malanski.github.io/awari-ulisses-dev/" title="Awari Course Activity">Web Development Course Activities</a>  
 - <a href="https://malanski.github.io/MyResume/" title="A short personal Resume">My Resume</a>  
   
+<!-- ![image](https://github.com/malanski/malanski/blob/master/dino.gif) -->
+
+<img height="150px" width="320px" src="https://github.com/malanski/malanski/dino.gif" />
+
 ## Where to reach me:  
   
  <div align="center">
@@ -121,4 +125,4 @@
 
 ![Snake animation](https://github.com/malanski/malanski/blob/output/github-contribution-grid-snake.svg)
 
- [![](https://github.com/malanski/malanski/blob/master/dino.gif)](#)
+ 
