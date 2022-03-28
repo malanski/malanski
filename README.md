@@ -5,6 +5,10 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=malanski&hide_border=true&theme=nightowl&show_icons=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical">
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/malanski/count.svg" />
+</p> 
 </div>
 
 - 👨‍🎓 I am a Full Stack Web Developer Certificated by Awari School.
@@ -116,3 +120,5 @@
  </div>
 
 ![Snake animation](https://github.com/malanski/malanski/blob/output/github-contribution-grid-snake.svg)
+
+ [![](https://github.com/malanski/malanski/blob/master/dino.gif)](#)
