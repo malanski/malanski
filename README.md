@@ -24,17 +24,17 @@
 <div align="center">
 
   
-||🔥FrontEND Technologies:🔥      | 🌸 🌸 |🔥BackEND principles:🔥 |  |
-| ---- | :---------------------------- | ---- | :------------------------- | --- |
-| <img title="SCSS with artistic backgorund" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> |SASS SCSS | <img title="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"> |SQL, Sequelize,  |  |
+||🔥FrontEND Technologies:🔥      | 🌸 🌸 |🔥BackEND principles:🔥 | 
+| ---- | :---------------------------- | ---- | :------------------------- |
+| <img title="SCSS with artistic backgorund" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> |SASS SCSS | <img title="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"> |SQL, Sequelize,  |  
 | <img title="Currently learnig everiday" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> |JavaScript | <img title="Creating REST API's" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> | Postgres, Postman, Dbeaver |
 | <img title="Create ecommerce applications using REST API via SWR fetching" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> |Nextjs | <img title="" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /> |GraphQL API |
 | <img title="Create ecommerce applications using REST API via axios fetching" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> |Reactjs                        | <img title="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> |TypeScript |
 | <img title="HTML elements, tags, W3C validation" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> |HTML5 | <img title="Learning about host, server..." height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"> |APACHE |
 | <img title="I love CSS, specialy SCSS, feels like painting, it is my second nature" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> | CSS and Bootstraps | <img title="Deploy on Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> | Cloud Deploy |
-||Chakra, MUI, Fontawesome | 🌸 🌸 |Security |
-| <img title="Lets seek the path of the yellow block" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /> |SEO | 🌸 🌸 |AWS |
-| <img title="Actualy Studing" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /> |jQuery | 🌸 🌸 |REST API|
+| 😎 🌸<br>🌸 🤓 |Chakra, MUI, Fontawesome | 👁️ 👁️<br> ⌨️ |Security |
+| <img title="Lets seek the path of the yellow block" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /> |SEO | 🌸 🌸<br>🌸 🌸 |AWS |
+| <img title="Actualy Studing" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /> |jQuery | 🌸 🌸<br>🌸 🌸 |REST API|
 | <img title="Commit, PullRequest, Merge are my favorite sport" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"> |Git | <img title="Actualy Studing" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"> |Docker Composer  |
 | <img title="Love to learn by seeing codes and applications" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"> | Github | <img title="npm and npx are tools that are doing the hard work for us" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> | Node |
 
@@ -57,7 +57,14 @@
       - Ableton Live
       - Nuendo
       - Fruit Loops 
-### I can work both on Windows and Linux(and WLS).   
+### I can work both on Windows and Linux(and WLS).  
+
+### I do speack 
+- Portuguese Brazilian: native advaced. 🇧🇷 🇵🇹
+- English: I am advanced reading and listening, but shure need to pratice more conversation and righting. 🇬🇧 🇺🇸
+- French: the basics 🇫🇷
+- Japanese: just a little. 🇯🇵
+- 
          
 
  <div align="center">
@@ -122,3 +129,4 @@
 ![Snake animation](https://github.com/malanski/malanski/blob/output/github-contribution-grid-snake.svg)
 
  
+🇧🇷
