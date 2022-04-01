@@ -12,31 +12,32 @@
 </div>
 
 - 👨‍🎓 I am a Full Stack Web Developer Certificated by Awari School.
-- 👨‍🎨 I am graduated in Drawing (Art education Licentiate)
-- 👀 I’m interested in technologies, visual art and music.  
-- 🌱 I’m dedicated to Web Development and Web Full Stack!
-- 💞️ I’m looking to collaborate on creativity with everyone. 
+- 👨‍🎓 I am graduated in Drawing (Art education Licentiate) 🧑‍🎨 
+- 👀 I’m interested in technologies, visual art and music. 🤖 
+- 🌱 I’m dedicated to Web Development and FrontEnd design. 💻
+- 💞️ I’m looking to collaborate on creativity with everyone. 🎨
+- 🇧🇷 I'm from Brazil. 🌐 
 - This is my [youtube channel](https://www.youtube.com/channel/UCMO8be295Zay2OajfewJpMA) 
 - HTML, CSS-SASS, Javascript, React, Next, Node, Git and Github! 🔥
 - I also can collaborate with: Design, Digital Art, Photo Manipulation, Concept Art, Audio Production, Music Composing.  
   
-### I`m currently learning and developing skills on:  
+### I`m currently learning and developing skills on: 🥇 🥈 🥉 
 <div align="center">
 
   
-|  |🔥FrontEND Technologies:🔥 | 🌸 🌸 |🔥BackEND principles:🔥 | 
+|  |🔥FrontEND Technologies:🔥 |   |🔥BackEND principles:🔥 | 
 | ---- | :---------------------------- | ---- | :------------------------- |
-| <img title="SCSS with artistic backgorund" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"><br> SASS SCSS | To style applications with <br> responsive layouts and  innovations.  |  🦸‍♂️ <br> Postman | REST API create, share and test   |  
-| <img title="Currently learnig everiday" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> |JavaScript | <img title="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"> <br> SQL, Sequelize |  |
-| <img title="Nextjs" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> <br> Next |Create ecommerce applications <br> using REST API via SWR fetching | <img title="" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /> |GraphQL API |
 | <img title="React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><br>Reactjs | Create ecommerce applications <br>using REST API via axios fetching | <img title="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> |TypeScript |
+| <img title="Nextjs" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> <br> Next |Create ecommerce applications <br> using REST API via SWR fetching | <img title="" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /> |GraphQL API |
+| <img title="SCSS with artistic backgorund" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"><br> SASS SCSS | To style applications with <br> responsive layouts and  innovations.  |  🦸‍♂️ <br> Postman | Create REST API , share and test<br>using typeScript, sequelize and postgres |  
+| <img title="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>JavaScript |JavaScript fundamental:<br>`var` `let` `const` `function` `class` <br>`fetch` `DOM` `event` `JSON` `object` | <img title="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"> <br> SQL, Sequelize | Basics on SQL and sequelize frameworks   |
 | <img title="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>HTML5 | HTML elements, tags, W3C validation" | <img title="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"><br>APACHE | Learning about host, server... |
-| <img title="CSS3" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>CSS| I love CSS, specialy SCSS,<br> feels like painting, <br>it is my second nature | <img title="Deploy on Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /> | Cloud Deploy |
-| 😎 🌸<br>🌸 🤓 |Chakra, MUI, Fontawesome | 👁️ 👁️<br> ⌨️ |Security |
+| <img title="CSS3" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>CSS| I love CSS, specialy SCSS,<br> feels like painting, <br>it is my second nature | <img  height="60" width="60"  title="Deploy on Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /><br/>Cloud Deploy | Currently learning |
 | <img title="SEO" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /><br>SEO |Lets seek the path of the yellow blocks | 🌸 🌸<br>🌸 🌸 |AWS |
 | <img title="Actualy Studing" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /> |jQuery | <img title="Creating REST API's" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> <br> PostgreSQL | CRUD |
-| <img title="Git" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><br>Git | Commit, PullRequest, Merge are my favorite sport | <img title="Actualy Studing" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"><br>Docker Composer |  Actualy learning |
-| <img title="Github" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><br>Github | Love to learn by seeing codes and applications | <img title="Node" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"><br>Nodejs | npm and npx are tools that are doing the hard work for us |
+| <img title="Git" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><br>Git | Commit, PullRequest, Merge <br>these are my favorite sport | <img title="Actualy Studing" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"><br>Docker Composer |  Actualy learning |
+| <img title="Github" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><br>Github | Love to learn by sharing<br> ideas, codes and applications | <img title="Node" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"><br>Nodejs | On back and frontend using<br> `npm` `npx` `nvm` |
+| 😎 🌸<br>🌸 🤓 |Chakra, MUI, Fontawesome | 👁️ 👁️<br> ⌨️ |Cyber Security |
 
 
 </div>
@@ -129,4 +130,4 @@
 ![Snake animation](https://github.com/malanski/malanski/blob/output/github-contribution-grid-snake.svg)
 
  
-🇧🇷
+
