@@ -63,7 +63,7 @@
 
 ### Languages 
 - Portuguese Brazilian: native advaced. 🇧🇷 🇵🇹
-- English: I am advanced reading and listening, but shure need to pratice more conversation and righting. 🇬🇧 🇺🇸
+- English: I am advanced reading and listening. 🇬🇧 🇺🇸
 - Spanish: basics 🇪🇸
 - French: basics 🇫🇷 
 - Japanese: just a little 🇯🇵         
