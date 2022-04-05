@@ -113,9 +113,9 @@
 - <a href="https://malanski.github.io/awari-ulisses-dev/" title="Awari Course Activity">Web Development Course Activities</a>  
 - <a href="https://malanski.github.io/MyResume/" title="A short personal Resume">My Resume</a>  
   
-<!-- ![image](https://github.com/malanski/malanski/blob/master/dino.gif) -->
+<!--![image](https://github.com/malanski/malanski/blob/master/dino.gif)-->
 
-<img height="200px" width="375px" src="/dino.gif" />
+<!-- <img height="200px" width="375px" src="/dino.gif" /> -->
 
 ## Where to reach me:  
   
