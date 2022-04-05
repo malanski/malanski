@@ -4,7 +4,10 @@
 <h1 align="center"><b>Hi, I'm Ulisses Malanski!! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=malanski&hide_border=true&theme=nightowl&show_icons=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical">
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical"> -->
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&hide=php&theme=github_dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&hide=php&theme=github_dark" />
+</a>
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/malanski/count.svg" />
