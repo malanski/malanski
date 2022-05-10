@@ -2,20 +2,11 @@
 <div align="center">
 
 
-<h1 align="center"><b>Hi, I'm  <img src="logo-empuxo2.jpeg"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=malanski&hide_border=true&theme=nightowl&show_icons=true" />  
-<br>   
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical"> -->
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&hide=php&theme=github_dark">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&hide=php&theme=github_dark" />
-</a>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/malanski/count.svg" />
-</p> 
-</div>
+<h1><b>Hi, I'm  <img src="logo-empuxo2.jpeg"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
 
+
+</div> 
+    
 - 👨‍🎓 I am a Full Stack Web Developer Certificated by Awari School.
 - 👨‍🎓 I am graduated in Drawing (Art education Licentiate) 🧑‍🎨 
 - 👀 I’m interested in technologies, visual art and music. 🤖 
@@ -26,6 +17,24 @@
 - HTML, CSS-SASS, Javascript, React, Next, Node, Git and Github! 🔥
 - I also can collaborate with: Design, Digital Art, Photo Manipulation, Concept Art, Audio Production, Music Composing.  
   
+   
+<div> 
+   
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&hide=php&theme=github_dark" />  
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=malanski&hide_border=true&theme=nightowl&show_icons=true" />  
+   
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical"> -->
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&hide=php&theme=github_dark">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  
+  
+</a>
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/malanski/count.svg" />
+</p> 
+</div>
+
 ### I`m currently learning and developing skills on: 🥇 🥈 🥉 
 <div align="center">
 
