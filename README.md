@@ -29,10 +29,6 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  
   
 </a>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/malanski/count.svg" />
-</p> 
 </div>
 
 ### I`m currently learning and developing skills on: 🥇 🥈 🥉 
@@ -142,6 +138,11 @@
  </div>
 
 ![Snake animation](https://github.com/malanski/malanski/blob/output/github-contribution-grid-snake.svg)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/malanski/count.svg" />
+</p> 
 
  
 
