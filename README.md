@@ -29,7 +29,7 @@
 ### I`m currently learning and developing skills on: 🥇 🥈 🥉 
 <div align="center">
 
-  
+<!--  
 |  |🔥FrontEND Technologies:🔥 |   |🔥BackEND principles:🔥 | 
 | ---- | :---------------------------- | ---- | :------------------------- |
 | <img title="React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><br>Reactjs | Create ecommerce applications <br>using REST API via axios fetching | <img title="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> |TypeScript |
@@ -43,7 +43,7 @@
 | <img title="Git" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><br>Git | Commit, PullRequest, Merge <br>these are my favorite sport | <img title="Actualy Studing" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"><br>Docker Compose |  Actualy learning |
 | <img title="Github" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><br>Github | Love to learn by sharing<br> ideas, codes and applications | <img title="Node" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"><br>Nodejs | On back and frontend using<br> `npm` `npx` `nvm` |
 | 😎 🌸<br>🌸 🤓 |Chakra, MUI, Fontawesome | 👁️ 👁️<br> ⌨️ |Cyber Security |
-
+-->
 
 </div>
 
