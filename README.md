@@ -14,8 +14,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-0e3582?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=1f004e)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0e3582?style=for-the-badge&logo=javascript&labelColor=1f004e)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0e3582?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
-![PHP](https://img.shields.io/badge/-PHP-0e3582?style=for-the-badge&logo=php&labelColor=1f004e)&nbsp;
-![Java](https://img.shields.io/badge/-Java-0e3582?style=for-the-badge&logo=java&labelColor=1f004e)&nbsp;
+![Next.js](https://img.shields.io/badge/-Next.js-0e3582?style=for-the-badge&logo=next.js&labelColor=1f004e)&nbsp;
 
 ### Tools:
 
@@ -29,8 +28,7 @@
 
 ### Other Knowledge:
 
-![PHP POO](https://img.shields.io/badge/-PHP_POO-0e3582?style=for-the-badge&logo=php&labelColor=1f004e)&nbsp;
-![typescript](https://img.shields.io/badge/-typescript-0e3582?style=for-the-badge&logo=typescript&labelColor=1f004e)&nbsp;
+![Fifma](https://img.shields.io/badge/-figma-0e3582?style=for-the-badge&logo=figma&labelColor=1f004e)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0e3582?style=for-the-badge&logo=bootstrap&labelColor=1f004e)&nbsp;
 ![APACHE](https://img.shields.io/badge/-APACHE-0e3582?style=for-the-badge&logo=apache&labelColor=1f004e)&nbsp;
 ![MYSQL](https://img.shields.io/badge/-MYSQL-0e3582?style=for-the-badge&logo=MYSQL&labelColor=1f004e)&nbsp;
@@ -38,12 +36,18 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-0e3582?style=for-the-badge&logo=node.js&labelColor=1f004e)&nbsp;
 
 ### Studying in this moment:
-
-![Angular](https://img.shields.io/badge/-angular-0e3582?style=for-the-badge&logo=angular&labelColor=1f004e)&nbsp;
-
+![typescript](https://img.shields.io/badge/-typescript-0e3582?style=for-the-badge&logo=typescript&labelColor=1f004e)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0e3582?style=for-the-badge&logo=java&labelColor=1f004e)&nbsp;
+  
+<a href="https://web.dio.me/" align="center">
+<img alt="Bootcamp Badge" title="Bootcamp Badge" width="100px" src="https://github.com/malanski/toDoList/raw/main/TQIbadge.png">
+</div> 
+ 
 ### Areas of Interest:
 
 ![React Native](https://img.shields.io/badge/-React_native-0e3582?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
+![Angular](https://img.shields.io/badge/-angular-0e3582?style=for-the-badge&logo=angular&labelColor=1f004e)&nbsp;
+  
 
 ### GitHub Analytics:
 
