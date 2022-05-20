@@ -1,141 +1,66 @@
+# Hi I'm Ulisses Malanski  🇧🇷 🇵🇹 🇬🇧 🇺🇸 🇪🇸 🇫🇷 
 
-<div align="center">
-
-
-<h1><b>Hi, I'm  <img src="logo-empuxo2.jpeg"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b></h1>
-
-
-</div> 
-    
-- 👨‍🎓 I am a Full Stack Web Developer Certificated by Awari School.
-- 👨‍🎓 I am graduated in Drawing (Art education Licentiate) 🧑‍🎨 
-- 👀 I’m interested in technologies, visual art and music. 🤖 
-- 🌱 I’m dedicated to Web Development and FrontEnd design. 💻
-- 💞️ I’m looking to collaborate on creativity with everyone. 🎨
-- 🇧🇷 I'm from Brazil. 🌐 
-- This is my [youtube channel](https://www.youtube.com/channel/UCMO8be295Zay2OajfewJpMA) 
-- HTML, CSS-SASS, Javascript, React, Next, Node, Git and Github! 🔥
-- I also can collaborate with: Design, Digital Art, Photo Manipulation, Concept Art, Audio Production, Music Composing.  
+ <img src="logo-empuxo2.jpeg"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b>
   
-   
-<div> 
-   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&hide=php&theme=github_dark" />  
+### About me:
+<p>
+    Front-end programmer and developer, Bachelor's degree in drawing (EMBAP) and Technologist in product and graphic design (ENSITEC). Professional tattoo artist, musician, guitarist, multi-instrumentalist.
+<p>
+    Always involved with technology and art, I take these resources to professional life in forms of expression. I have ease to work with groups, good relationship with people, responsibility and spirit of leadership. I have a passion for science and new experiences in communication, education and photography.
 
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=malanski&hide_border=true&theme=nightowl&show_icons=true" />  
-   
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&layout=compact&langs_count=7&theme=radical"> -->
- <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&hide=php&theme=github_dark">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true">  
-  
-</a>
-</div>
+### Main skills:
 
-### I`m currently learning and developing skills on: 🥇 🥈 🥉 
-<div align="center">
+![HTML](https://img.shields.io/badge/-HTML-0e3582?style=for-the-badge&logo=html5&labelColor=1f004e)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0e3582?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=1f004e)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-0e3582?style=for-the-badge&logo=javascript&labelColor=1f004e)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0e3582?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-0e3582?style=for-the-badge&logo=php&labelColor=1f004e)&nbsp;
+![Java](https://img.shields.io/badge/-Java-0e3582?style=for-the-badge&logo=java&labelColor=1f004e)&nbsp;
 
-<!--  
-|  |🔥FrontEND Technologies:🔥 |   |🔥BackEND principles:🔥 | 
-| ---- | :---------------------------- | ---- | :------------------------- |
-| <img title="React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/><br>Reactjs | Create ecommerce applications <br>using REST API via axios fetching | <img title="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> |TypeScript |
-| <img title="Nextjs" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg"> <br> Next |Create ecommerce applications <br> using REST API via SWR fetching | <img title="" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" /> |GraphQL API |
-| <img title="SCSS with artistic backgorund" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"><br> SASS SCSS | To style applications with <br> responsive layouts and  innovations.  |  🦸‍♂️ <br> Postman | Create REST API , share and test<br>using typeScript, sequelize and postgres |  
-| <img title="JavaScript" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br>JavaScript |JavaScript fundamental:<br>`var` `let` `const` `function` `class` <br>`fetch` `DOM` `event` `JSON` `object` | <img title="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg"> <br> SQL, Sequelize | Basics on SQL and sequelize frameworks   |
-| <img title="HTML" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br>HTML5 | HTML elements, tags, W3C validation" | <img title="" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"><br>APACHE | Learning about host, server... |
-| <img title="CSS3" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>CSS| I love CSS, specialy SCSS,<br> feels like painting, <br>it is my second nature | <img  height="60" width="60"  title="Deploy on Cloud" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" /><br/>Cloud Deploy | Currently learning |
-| <img title="SEO" height="60" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" /><br>SEO |Lets seek the path of the yellow blocks | 🌸 🌸<br>🌸 🌸 |AWS |
-| <img title="Actualy Studing" height="60" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /> |jQuery | <img title="Creating REST API's" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> <br> PostgreSQL | CRUD |
-| <img title="Git" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><br>Git | Commit, PullRequest, Merge <br>these are my favorite sport | <img title="Actualy Studing" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"><br>Docker Compose |  Actualy learning |
-| <img title="Github" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"><br>Github | Love to learn by sharing<br> ideas, codes and applications | <img title="Node" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"><br>Nodejs | On back and frontend using<br> `npm` `npx` `nvm` |
-| 😎 🌸<br>🌸 🤓 |Chakra, MUI, Fontawesome | 👁️ 👁️<br> ⌨️ |Cyber Security |
--->
+### Tools:
 
-</div>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0e3582?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=1f004e)&nbsp;
+![Git](https://img.shields.io/badge/-Git-0e3582?style=for-the-badge&logo=git&labelColor=1f004e)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0e3582?style=for-the-badge&logo=github&labelColor=1f004e)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-0e3582?style=for-the-badge&logo=adobe-photoshop&labelColor=1f004e)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0e3582?style=for-the-badge&logo=windows&labelColor=1f004e)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0e3582?style=for-the-badge&logo=microsoft-office&labelColor=1f004e)&nbsp;
+![Linux](https://img.shields.io/badge/-linux-0e3582?style=for-the-badge&logo=linux&labelColor=1f004e)&nbsp;
 
-      
-### SOFTWARES I like to use on my work:
-  * Web development, Visual Art & Design.🧑‍🎨 💻 📱 ⌨️
-      - VS code
-      - Figma
-      - Postman
-      - Dbeaver
-      - XAMP
-      - Adobe XD
-      - Adobe Illustrator
-      - Adobe Photoshopp
-      - Adobe Premiere  
-     
-  * Audio Editing & Music Production. 🔉 🎶 🎸 🥁 🎵 🎹 🎤 🎼
-      - Ableton Live
-      - Nuendo
-      - Fruit Loops 
-### I can work both on Windows and Linux(and WLS).  
+### Other Knowledge:
 
-### Languages 
-- Portuguese Brazilian: native advaced. 🇧🇷 🇵🇹
-- English: I am advanced reading and listening. 🇬🇧 🇺🇸
-- Spanish: basics 🇪🇸
-- French: basics 🇫🇷 
-- Japanese: just a little 🇯🇵         
+![PHP POO](https://img.shields.io/badge/-PHP_POO-0e3582?style=for-the-badge&logo=php&labelColor=1f004e)&nbsp;
+![typescript](https://img.shields.io/badge/-typescript-0e3582?style=for-the-badge&logo=typescript&labelColor=1f004e)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0e3582?style=for-the-badge&logo=bootstrap&labelColor=1f004e)&nbsp;
+![APACHE](https://img.shields.io/badge/-APACHE-0e3582?style=for-the-badge&logo=apache&labelColor=1f004e)&nbsp;
+![MYSQL](https://img.shields.io/badge/-MYSQL-0e3582?style=for-the-badge&logo=MYSQL&labelColor=1f004e)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-0e3582?style=for-the-badge&logo=markdown&labelColor=1f004e)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0e3582?style=for-the-badge&logo=node.js&labelColor=1f004e)&nbsp;
 
- <div align="center">
- 
- <a href="https://www.facebook.com/ulisses.malanski/"><img height="180" style="border-radius: 50px;" src="https://lastfm.freetls.fastly.net/i/u/770x0/2d81602ce3cb43378ddf0d57407d9738.jpg#2d81602ce3cb43378ddf0d57407d9738"></a>
-     
- </div>
-  
-<div align="center" style="display: inline-block;">
-<img title="JavaScript"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img title="SASS - SCSS"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-<img title="React"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-<img title="Apache"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg"> 
-<img title="sequelize"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg">
-<img title="TypeScript"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">   
-<img title="Next"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">   
-<img title="HTML5"  width="50"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img title="CSS#"  width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img title="Github" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-<img title="Nodejs" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-<img title="Docker Composer" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-<img title="PostgreSQL" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-<img title="Git" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-<img title="VScode" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-<img title="Figma" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-<img title="Linux" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-<img title="Bootstrap" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
-<img title="Illustrator" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
-<img title="Photoshop" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img title="Jquery" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" />
-<img title="GraphQL" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-<img title="Markdown" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-  
-</div>  
+### Studying in this moment:
 
-## Links to Other Projects by Ulisses Malanski<br>  
- 
-- <a href="https://malanski.github.io/cron/" title="Cronometer" target="_blank">Cron</a>  
-- <a href="https://poke-store-next.vercel.app//" title="Nextjs Ecommerce Pokemon Store" target="_blank">Poké-Store Next Js</a>
-- <a href="https://malanski.github.io/pokestore-react/" title="Reactjs Ecommerce Pokemon Store" target="_blank">PokéStore React Js</a>  
-- <a href="https://malanski.github.io/GessingColorGame/" title="Color Game JavaScript CSS HTML" target="_blank">Gessing Color Game</a>
-- <a href="https://malanski.github.io/projeto-react-app2/" title="Artistic Portfolium" target="_blank">Portfolium React App</a>
-- <a href="https://malanski.github.io/CalculatorX/" title="JavaScript study Calculator">Calculator</a>  
-- <a href="https://malanski.github.io/pokeLoja2/" title="My Firts Vanilla Ecommerce project">Vanilla Ecommerce Poke Card Game Styled</a>  
-- <a href="https://malanski.github.io/awari-ulisses-dev/" title="Awari Course Activity">Web Development Course Activities</a>  
-- <a href="https://malanski.github.io/MyResume/" title="A short personal Resume">My Resume</a>  
-  
-<!--![image](https://github.com/malanski/malanski/blob/master/dino.gif)-->
+![Angular](https://img.shields.io/badge/-angular-0e3582?style=for-the-badge&logo=angular&labelColor=1f004e)&nbsp;
 
-<!-- <img height="200px" width="375px" src="/dino.gif" /> -->
+### Areas of Interest:
 
-## Where to reach me:  
-  
- <div align="center">
- 
- <a href="https://www.linkedin.com/in/ulisses-malanski/" target="_blank"><img src="https://img.shields.io/badge/Ulisses Malanski-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+![React Native](https://img.shields.io/badge/-React_native-0e3582?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
+
+### GitHub Analytics:
+
+<p align="left">
+  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=malanski&title_color=0e3582&icon_color=ff66c4&text_color=5ce1e6&bg_color=1f004e&border_color=whitec&show_icons=true"/>
+  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malanski&layout=compact&title_color=0e3582&icon_color=ff66c4&text_color=5ce1e6&bg_color=1f004e&show_icons=true"/>
+</p>
+
+### Ulisses Malanski on social media:
+
+<a href="https://www.linkedin.com/in/ulisses-malanski/"><img src="https://img.shields.io/badge/-Ulisses_Malanski-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
  <a href = "mailto:malanskiwork@gmail.com"><img src="https://img.shields.io/badge/-malanskiwork@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://www.instagram.com/ulissesmalanski_tattoo/" target="_blank"><img src="https://img.shields.io/badge/Ulisses Malanski Tattoo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-    
- </div>
+<a href="https://instagram.com/ulissesmalanski_tattoo"><img src="https://img.shields.io/badge/-@ulissesmalanski_tattoo.oficial-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
+
+</p>
+
 
 ![Snake animation](https://github.com/malanski/malanski/blob/output/github-contribution-grid-snake.svg)
 
@@ -143,6 +68,3 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/malanski/count.svg" />
 </p> 
-
- 
-
