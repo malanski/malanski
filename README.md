@@ -4,9 +4,9 @@
   
 ### About me:
 <p>
-    Front-end programmer and developer, Bachelor's degree in drawing (EMBAP) and Technologist in product and graphic design (ENSITEC). Professional tattoo artist, musician, guitarist, multi-instrumentalist.
+&ensp;&ensp;&ensp;Front-end programmer and developer, Bachelor's degree in drawing (EMBAP) and Technologist in product and graphic design (ENSITEC). Professional art teacher and tattoo artist. Spare time musician, guitarist, drums and synthesizer programming.
 <p>
-    Always involved with technology and art, I take these resources to professional life in forms of expression. I have ease to work with groups, good relationship with people, responsibility and spirit of leadership. I have a passion for science and new experiences in communication, education and photography.
+&ensp;&ensp;&ensp;Always involved with technology and art, I take these resources to professional life in forms of expression. I have ease to work with groups, good relationship with people, responsibility and spirit of leadership. I have a passion for science and new experiences in communication, education and photography.
 
 ### Main skills:
 
@@ -52,16 +52,30 @@
 ### GitHub Analytics:
 
 <p align="left">
-  <img height="145em" src="https://github-readme-stats.vercel.app/api?username=malanski&title_color=0e3582&icon_color=ff66c4&text_color=5ce1e6&bg_color=1f004e&border_color=whitec&show_icons=true"/>
-  <img height="145em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=malanski&layout=compact&title_color=0e3582&icon_color=ff66c4&text_color=5ce1e6&bg_color=1f004e&show_icons=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&hide=php&theme=github_dark" />  
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=malanski&hide_border=true&theme=nightowl&show_icons=true" />
+ <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=malanski&hide=php&theme=github_dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=malanski&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
+ </a>
 </p>
+
+### Links to Other Projects by Ulisses Malanski<br>  
+ 
+- <a href="https://malanski.github.io/cron/" title="Cronometer" target="_blank">Cron</a>  
+- <a href="https://poke-store-next.vercel.app//" title="Nextjs Ecommerce Pokemon Store" target="_blank">Poké-Store Next Js</a>
+- <a href="https://malanski.github.io/pokestore-react/" title="Reactjs Ecommerce Pokemon Store" target="_blank">PokéStore React Js</a>  
+- <a href="https://malanski.github.io/GessingColorGame/" title="Color Game JavaScript CSS HTML" target="_blank">Gessing Color Game</a>
+- <a href="https://malanski.github.io/projeto-react-app2/" title="Artistic Portfolium" target="_blank">Portfolium React App</a>
+- <a href="https://malanski.github.io/CalculatorX/" title="JavaScript study Calculator">Calculator</a>  
+- <a href="https://malanski.github.io/pokeLoja2/" title="My Firts Vanilla Ecommerce project">Vanilla Ecommerce Poke Card Game Styled</a>  
+- <a href="https://malanski.github.io/awari-ulisses-dev/" title="Awari Course Activity">Web Development Course Activities</a>  
+- <a href="https://malanski.github.io/MyResume/" title="A short personal Resume">My Resume</a>  
 
 ### Ulisses Malanski on social media:
 
 <a href="https://www.linkedin.com/in/ulisses-malanski/"><img src="https://img.shields.io/badge/-Ulisses_Malanski-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
  <a href = "mailto:malanskiwork@gmail.com"><img src="https://img.shields.io/badge/-malanskiwork@gmail.com-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://instagram.com/ulissesmalanski_tattoo"><img src="https://img.shields.io/badge/-@ulissesmalanski_tattoo.oficial-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-
 
 </p>
 
