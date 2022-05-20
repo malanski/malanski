@@ -68,7 +68,7 @@
 - <a href="https://malanski.github.io/projeto-react-app2/" title="Artistic Portfolium" target="_blank">Portfolium React App</a>
 - <a href="https://malanski.github.io/CalculatorX/" title="JavaScript study Calculator">Calculator</a>  
 - <a href="https://malanski.github.io/pokeLoja2/" title="My Firts Vanilla Ecommerce project">Vanilla Ecommerce Poke Card Game Styled</a>  
-- <a href="https://malanski.github.io/awari-ulisses-dev/" title="Awari Course Activity">Web Development Course Activities</a>  
+- <a href="https://malanski.github.io/awari-ulisses-dev/" title="Web Development Courses Activity">Web Development Courses Activities</a>  
 - <a href="https://malanski.github.io/MyResume/" title="A short personal Resume">My Resume</a>  
 
 ### Ulisses Malanski on social media:
