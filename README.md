@@ -1,6 +1,6 @@
 # Hi I'm Ulisses Malanski  🇧🇷 🇵🇹 🇬🇧 🇺🇸 🇪🇸 🇫🇷 
 
- <img src="logo-empuxo2.jpeg"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></b>
+ <img src="logo-empuxo2.jpeg">
   
 ### About me:
 <p>
