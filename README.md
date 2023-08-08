@@ -12,7 +12,9 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-0e3582?style=for-the-badge&logo=html5&labelColor=1f004e)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0e3582?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=1f004e)&nbsp;
+![SASS](https://img.shields.io/badge/-SASS-0e3582?style=for-the-badge&logo=SASS&logoColor=1572B6&labelColor=1f004e)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0e3582?style=for-the-badge&logo=javascript&labelColor=1f004e)&nbsp;
+![typescript](https://img.shields.io/badge/-typescript-0e3582?style=for-the-badge&logo=typescript&labelColor=1f004e)&nbsp;
 ![React.js](https://img.shields.io/badge/-React.js-0e3582?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
 ![Next.js](https://img.shields.io/badge/-Next.js-0e3582?style=for-the-badge&logo=next.js&labelColor=1f004e)&nbsp;
 
@@ -24,22 +26,21 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0e3582?style=for-the-badge&logo=adobe-photoshop&labelColor=1f004e)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0e3582?style=for-the-badge&logo=windows&labelColor=1f004e)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0e3582?style=for-the-badge&logo=linux&labelColor=1f004e)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-0e3582?style=for-the-badge&logo=node.js&labelColor=1f004e)&nbsp;
 
 ### Other Knowledge:
 
 ![Figma](https://img.shields.io/badge/-figma-0e3582?style=for-the-badge&logo=figma&labelColor=1f004e)&nbsp;
-![Boostrap](https://img.shields.io/badge/-boostrap-0e3582?style=for-the-badge&logo=bootstrap&labelColor=1f004e)&nbsp;
+![Material UI](https://img.shields.io/badge/-mui-0e3582?style=for-the-badge&logo=mui&labelColor=1f004e)&nbsp;
+![Tailwind](https://img.shields.io/badge/-Tailwind-0e3582?style=for-the-badge&logo=tailwind&labelColor=1f004e)&nbsp;
 ![JSON](https://img.shields.io/badge/-JSON-0e3582?style=for-the-badge&logo=JSON&labelColor=1f004e)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-0e3582?style=for-the-badge&logo=node.js&labelColor=1f004e)&nbsp;
 
 ### Studying in this moment:
-![typescript](https://img.shields.io/badge/-typescript-0e3582?style=for-the-badge&logo=typescript&labelColor=1f004e)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-0e3582?style=for-the-badge&logo=java&labelColor=1f004e)&nbsp;
-  
-<a href="https://web.dio.me/" align="center">
-<img alt="Bootcamp Badge" title="Bootcamp Badge" width="100px" src="https://github.com/malanski/toDoList/raw/main/TQIbadge.png">
-</div> 
- 
+![SQL](https://img.shields.io/badge/-SQL-0e3582?style=for-the-badge&logo=SQL&labelColor=1f004e)&nbsp;
+![nosql](https://img.shields.io/badge/-nosql-0e3582?style=for-the-badge&logo=nosql&labelColor=1f004e)&nbsp;
+![MongoDB](https://img.shields.io/badge/-mongoDB-0e3582?style=for-the-badge&logo=mongoDB&labelColor=1f004e)&nbsp;
+
 ### Areas of Interest:
 
 ![React Native](https://img.shields.io/badge/-React_native-0e3582?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
