@@ -23,16 +23,13 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-0e3582?style=for-the-badge&logo=github&labelColor=1f004e)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-0e3582?style=for-the-badge&logo=adobe-photoshop&labelColor=1f004e)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-0e3582?style=for-the-badge&logo=windows&labelColor=1f004e)&nbsp;
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-0e3582?style=for-the-badge&logo=microsoft-office&labelColor=1f004e)&nbsp;
 ![Linux](https://img.shields.io/badge/-linux-0e3582?style=for-the-badge&logo=linux&labelColor=1f004e)&nbsp;
 
 ### Other Knowledge:
 
-![Fifma](https://img.shields.io/badge/-figma-0e3582?style=for-the-badge&logo=figma&labelColor=1f004e)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0e3582?style=for-the-badge&logo=figma&labelColor=1f004e)&nbsp;
 ![Boostrap](https://img.shields.io/badge/-boostrap-0e3582?style=for-the-badge&logo=bootstrap&labelColor=1f004e)&nbsp;
-![APACHE](https://img.shields.io/badge/-APACHE-0e3582?style=for-the-badge&logo=apache&labelColor=1f004e)&nbsp;
-![MYSQL](https://img.shields.io/badge/-MYSQL-0e3582?style=for-the-badge&logo=MYSQL&labelColor=1f004e)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-0e3582?style=for-the-badge&logo=markdown&labelColor=1f004e)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-0e3582?style=for-the-badge&logo=JSON&labelColor=1f004e)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-0e3582?style=for-the-badge&logo=node.js&labelColor=1f004e)&nbsp;
 
 ### Studying in this moment:
@@ -46,7 +43,7 @@
 ### Areas of Interest:
 
 ![React Native](https://img.shields.io/badge/-React_native-0e3582?style=for-the-badge&logo=react&labelColor=1f004e)&nbsp;
-![Angular](https://img.shields.io/badge/-angular-0e3582?style=for-the-badge&logo=angular&labelColor=1f004e)&nbsp;
+![Vue](https://img.shields.io/badge/-VUE-0e3582?style=for-the-badge&logo=VUE&labelColor=1f004e)&nbsp;
   
 
 ### GitHub Analytics:
