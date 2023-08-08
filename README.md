@@ -1,12 +1,11 @@
 # Hi I'm Ulisses Malanski  🇧🇷 🇵🇹 🇬🇧 🇺🇸 🇪🇸 🇫🇷 
 
- <img src="logo-empuxo2.jpeg">
   
 ### About me:
 <p>
-&ensp;&ensp;&ensp;Front-end programmer and developer, Bachelor's degree in drawing (EMBAP) and Technologist in product and graphic design (ENSITEC). Professional art teacher and tattoo artist. Spare time musician, guitarist, drums and synthesizer programming.
+&ensp;&ensp;&ensp; Fullstack programmer and developer, Bachelor's degree in drawing (EMBAP) and Technologist in product and graphic design (ENSITEC). Professional art teacher and tattoo artist. Spare time musician, guitarist, drums, and synthesizer programming.
 <p>
-&ensp;&ensp;&ensp;Always involved with technology and art, I take these resources to professional life in forms of expression. I have ease to work with groups, good relationship with people, responsibility and spirit of leadership. I have a passion for science and new experiences in communication, education and photography.
+&ensp;&ensp;&ensp; Always involved with technology and art, I take these resources to professional life in forms of expression. I have ease to work with groups, good relationships with people, responsibility, and a spirit of leadership. I have a passion for science and new experiences in communication, education and photography.
 
 ### Main skills:
 
@@ -84,3 +83,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/malanski/count.svg" />
 </p> 
+  
+ <img src="logo-empuxo2.png">
+    
