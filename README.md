@@ -38,7 +38,6 @@
 
 ### Studying in this moment:
 ![Java](https://img.shields.io/badge/-Java-0e3582?style=for-the-badge&logo=java&labelColor=1f004e)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-0e3582?style=for-the-badge&logo=SQL&labelColor=1f004e)&nbsp;
 ![nosql](https://img.shields.io/badge/-nosql-0e3582?style=for-the-badge&logo=nosql&labelColor=1f004e)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-mongoDB-0e3582?style=for-the-badge&logo=mongoDB&labelColor=1f004e)&nbsp;
 
