@@ -3,10 +3,10 @@
   
 ### About me:
 <p>
-&ensp;&ensp;&ensp; Fullstack programmer and developer, Bachelor's degree in drawing (EMBAP) and Technologist in product and graphic design (ENSITEC). Professional art teacher and tattoo artist. Spare time musician, guitarist, drums, and synthesizer programming.
+&ensp;&ensp;&ensp; Full-stack developer and coder with a bachelor's in art (EMBAP) and a certificate in product and graphic design (ENSITEC). professional tattoo artist and art educator. Guitarist, drummer, and synthesizer player in my free time.
 <p>
-&ensp;&ensp;&ensp; Always involved with technology and art, I take these resources to professional life in forms of expression. I have ease to work with groups, good relationships with people, responsibility, and a spirit of leadership. I have a passion for science and new experiences in communication, education and photography.
-
+&ensp;&ensp;&ensp;  I've always been interested in technology and the arts, and I use these resources to express myself in my professional life. I am able to work well in groups and with people, and I value responsibility and leadership. I love learning new things about communication, education, and photography.   
+    
 ### Main skills:
 
 ![HTML](https://img.shields.io/badge/-HTML-0e3582?style=for-the-badge&logo=html5&labelColor=1f004e)&nbsp;
