@@ -3,7 +3,7 @@
   
 ### About me:
 <p>
-&ensp;&ensp;&ensp; Full-stack developer and coder with a bachelor's in art (EMBAP) and a certificate in product and graphic design (ENSITEC). professional tattoo artist and art educator. Guitarist, drummer, and synthesizer player in my free time.
+&ensp;&ensp;&ensp; Full-stack developer and coder with a bachelor's in art (EMBAP) and a certificate in product and graphic design (ENSITEC). Professional tattoo artist and art educator. Guitarist, drummer, and synthesizer player in my free time.
 <p>
 &ensp;&ensp;&ensp;  I've always been interested in technology and the arts, and I use these resources to express myself in my professional life. 
   I am able to work well in groups and with people, and I value responsibility and leadership. I love learning new things about communication, education, and photography. 
